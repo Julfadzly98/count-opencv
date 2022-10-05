@@ -1,4 +1,5 @@
-# count-opencv project
+#requirement to install :-
 
-install open-cv
-install numpy
+opencv-python
+numpy
+opencv-contrib-python
