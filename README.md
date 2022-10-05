@@ -1,5 +1,5 @@
 # Requirement To Install 
 
-opencv-python
-numpy
-opencv-contrib-python
+- opencv-python
+- numpy
+- opencv-contrib-python
